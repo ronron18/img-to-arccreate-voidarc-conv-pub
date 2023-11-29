@@ -1,7 +1,5 @@
-# Image to AFF Trace (void arcs) Converter
-An ipynb notebook which converts an image into traces by using edge detector
+# Image to Arccreate Void Arc Converter
+An jupyter notebook which converts an image into Arccreate Void arcs by using edge detection (opencv) and by tracing neighbouring pixels.
 
-## To-do
-- [ ] Add position parameter
-- [ ] Make output file smaller (convert smaller traces into larger ones)
-- [ ] Make arcs smoother
+### Important Notice
+This is an older version of the code made available publicly, The more recent version (Which I currently use) is private for now.
