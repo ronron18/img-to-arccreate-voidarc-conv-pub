@@ -9,3 +9,7 @@ I recommend general users to use Google Drive and Colab for this so you dont hav
 1. Upload the script and image to google drive.
 2. open script in colab
 3. follow the steps which had been marked down.
+
+## Sample result:
+here is a cute chino made up of *9168* lines of void arcs.
+![very cute chino](/README_FILES/sample_chino.png)
